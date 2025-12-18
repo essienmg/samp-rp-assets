@@ -1,0 +1,650 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:07:14] filterscripts = ""  (string)
+[02:07:14] 
+[02:07:14] Server Plugins
+[02:07:14] --------------
+[02:07:14]  Loading plugin: streamer.dll
+[02:07:14] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:07:14]   Loaded.
+[02:07:14]  Loading plugin: sscanf.dll
+[02:07:14] 
+[02:07:14]  ===============================
+[02:07:14] 
+[02:07:14]       sscanf plugin loaded.     
+[02:07:14] 
+[02:07:14]          Version: 2.13.8
+[02:07:14] 
+[02:07:14]    (c) 2022 Alex "Y_Less" Cole  
+[02:07:14] 
+[02:07:14]  ===============================
+[02:07:14] 
+[02:07:14]   Loaded.
+[02:07:14]  Loading plugin: pawncmd.dll
+[02:07:14] [Pawn.CMD] plugin v3.4.0 loading...
+[02:07:14] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:07:14]   Loaded.
+[02:07:14]  Loaded 3 plugins.
+
+[02:07:14] I couldn't load any gamemode scripts. Please verify your server.cfg
+[02:07:14] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:07:36] filterscripts = ""  (string)
+[02:07:36] 
+[02:07:36] Server Plugins
+[02:07:36] --------------
+[02:07:36]  Loading plugin: streamer.dll
+[02:07:36] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:07:36]   Loaded.
+[02:07:36]  Loading plugin: sscanf.dll
+[02:07:36] 
+[02:07:36]  ===============================
+[02:07:36] 
+[02:07:36]       sscanf plugin loaded.     
+[02:07:36] 
+[02:07:36]          Version: 2.13.8
+[02:07:36] 
+[02:07:36]    (c) 2022 Alex "Y_Less" Cole  
+[02:07:36] 
+[02:07:36]  ===============================
+[02:07:36] 
+[02:07:36]   Loaded.
+[02:07:36]  Loading plugin: pawncmd.dll
+[02:07:36] [Pawn.CMD] plugin v3.4.0 loading...
+[02:07:36] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:07:36]   Loaded.
+[02:07:36]  Loaded 3 plugins.
+
+[02:07:36] I couldn't load any gamemode scripts. Please verify your server.cfg
+[02:07:36] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:07:52] filterscripts = ""  (string)
+[02:07:52] 
+[02:07:52] Server Plugins
+[02:07:52] --------------
+[02:07:52]  Loading plugin: streamer.dll
+[02:07:52] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:07:52]   Loaded.
+[02:07:52]  Loading plugin: sscanf.dll
+[02:07:52] 
+[02:07:52]  ===============================
+[02:07:52] 
+[02:07:52]       sscanf plugin loaded.     
+[02:07:52] 
+[02:07:52]          Version: 2.13.8
+[02:07:52] 
+[02:07:52]    (c) 2022 Alex "Y_Less" Cole  
+[02:07:52] 
+[02:07:52]  ===============================
+[02:07:52] 
+[02:07:52]   Loaded.
+[02:07:52]  Loading plugin: pawncmd.dll
+[02:07:52] [Pawn.CMD] plugin v3.4.0 loading...
+[02:07:52] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:07:52]   Loaded.
+[02:07:52]  Loaded 3 plugins.
+
+[02:07:52] I couldn't load any gamemode scripts. Please verify your server.cfg
+[02:07:52] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:08:36] filterscripts = ""  (string)
+[02:08:36] 
+[02:08:36] Server Plugins
+[02:08:36] --------------
+[02:08:36]  Loading plugin: streamer.dll
+[02:08:36] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:08:36]   Loaded.
+[02:08:36]  Loading plugin: sscanf.dll
+[02:08:36] 
+[02:08:36]  ===============================
+[02:08:36] 
+[02:08:36]       sscanf plugin loaded.     
+[02:08:36] 
+[02:08:36]          Version: 2.13.8
+[02:08:36] 
+[02:08:36]    (c) 2022 Alex "Y_Less" Cole  
+[02:08:36] 
+[02:08:36]  ===============================
+[02:08:36] 
+[02:08:36]   Loaded.
+[02:08:36]  Loading plugin: pawncmd.dll
+[02:08:36] [Pawn.CMD] plugin v3.4.0 loading...
+[02:08:36] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:08:36]   Loaded.
+[02:08:36]  Loaded 3 plugins.
+
+[02:08:36] I couldn't load any gamemode scripts. Please verify your server.cfg
+[02:08:36] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:08:50] filterscripts = ""  (string)
+[02:08:50] 
+[02:08:50] Server Plugins
+[02:08:50] --------------
+[02:08:50]  Loading plugin: streamer.dll
+[02:08:50] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:08:50]   Loaded.
+[02:08:50]  Loading plugin: sscanf.dll
+[02:08:50] 
+[02:08:50]  ===============================
+[02:08:50] 
+[02:08:50]       sscanf plugin loaded.     
+[02:08:50] 
+[02:08:50]          Version: 2.13.8
+[02:08:50] 
+[02:08:50]    (c) 2022 Alex "Y_Less" Cole  
+[02:08:50] 
+[02:08:50]  ===============================
+[02:08:50] 
+[02:08:50]   Loaded.
+[02:08:50]  Loading plugin: pawncmd.dll
+[02:08:50] [Pawn.CMD] plugin v3.4.0 loading...
+[02:08:50] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:08:50]   Loaded.
+[02:08:50]  Loaded 3 plugins.
+
+[02:08:50] 
+[02:08:50] Filterscripts
+[02:08:50] ---------------
+[02:08:50]   Loaded 0 filterscripts.
+
+[02:08:50] Script[gamemodes/new.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[02:08:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:10:23] filterscripts = ""  (string)
+[02:10:23] 
+[02:10:23] Server Plugins
+[02:10:23] --------------
+[02:10:23]  Loading plugin: streamer.dll
+[02:10:23] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:10:23]   Loaded.
+[02:10:23]  Loading plugin: sscanf.dll
+[02:10:23] 
+[02:10:23]  ===============================
+[02:10:23] 
+[02:10:23]       sscanf plugin loaded.     
+[02:10:23] 
+[02:10:23]          Version: 2.13.8
+[02:10:23] 
+[02:10:23]    (c) 2022 Alex "Y_Less" Cole  
+[02:10:23] 
+[02:10:23]  ===============================
+[02:10:23] 
+[02:10:23]   Loaded.
+[02:10:23]  Loading plugin: pawncmd.dll
+[02:10:23] [Pawn.CMD] plugin v3.4.0 loading...
+[02:10:23] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:10:23]   Loaded.
+[02:10:23]  Loaded 3 plugins.
+
+[02:10:23] 
+[02:10:23] Filterscripts
+[02:10:23] ---------------
+[02:10:23]   Loaded 0 filterscripts.
+
+[02:10:23] Number of vehicle models: 0
+[02:11:40] [connection] incoming connection: 127.0.0.1:62580 id: 0
+[02:11:40] [join] Mikel has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:14:10] filterscripts = ""  (string)
+[02:14:10] 
+[02:14:10] Server Plugins
+[02:14:10] --------------
+[02:14:10]  Loading plugin: streamer.dll
+[02:14:10] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:14:10]   Loaded.
+[02:14:10]  Loading plugin: sscanf.dll
+[02:14:10] 
+[02:14:10]  ===============================
+[02:14:10] 
+[02:14:10]       sscanf plugin loaded.     
+[02:14:10] 
+[02:14:10]          Version: 2.13.8
+[02:14:10] 
+[02:14:10]    (c) 2022 Alex "Y_Less" Cole  
+[02:14:10] 
+[02:14:10]  ===============================
+[02:14:10] 
+[02:14:10]   Loaded.
+[02:14:10]  Loading plugin: pawncmd.dll
+[02:14:10] [Pawn.CMD] plugin v3.4.0 loading...
+[02:14:10] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:14:10]   Loaded.
+[02:14:10]  Loaded 3 plugins.
+
+[02:14:10] 
+[02:14:10] Filterscripts
+[02:14:10] ---------------
+[02:14:10]   Loaded 0 filterscripts.
+
+[02:14:10] Number of vehicle models: 0
+[02:14:15] [connection] incoming connection: 127.0.0.1:59960 id: 0
+[02:14:27] [connection] incoming connection: 127.0.0.1:52696 id: 0
+[02:14:39] [connection] incoming connection: 127.0.0.1:57713 id: 0
+[02:14:39] [join] Mikel has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:16:20] filterscripts = ""  (string)
+[02:16:20] 
+[02:16:20] Server Plugins
+[02:16:20] --------------
+[02:16:20]  Loading plugin: streamer.dll
+[02:16:20] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:16:20]   Loaded.
+[02:16:20]  Loading plugin: sscanf.dll
+[02:16:20] 
+[02:16:20]  ===============================
+[02:16:20] 
+[02:16:20]       sscanf plugin loaded.     
+[02:16:20] 
+[02:16:20]          Version: 2.13.8
+[02:16:20] 
+[02:16:20]    (c) 2022 Alex "Y_Less" Cole  
+[02:16:20] 
+[02:16:20]  ===============================
+[02:16:20] 
+[02:16:20]   Loaded.
+[02:16:20]  Loading plugin: pawncmd.dll
+[02:16:20] [Pawn.CMD] plugin v3.4.0 loading...
+[02:16:20] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:16:20]   Loaded.
+[02:16:20]  Loaded 3 plugins.
+
+[02:16:20] 
+[02:16:20] Filterscripts
+[02:16:20] ---------------
+[02:16:20]   Loaded 0 filterscripts.
+
+[02:16:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:17:35] filterscripts = ""  (string)
+[02:17:35] 
+[02:17:35] Server Plugins
+[02:17:35] --------------
+[02:17:35]  Loading plugin: streamer.dll
+[02:17:35] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:17:35]   Loaded.
+[02:17:35]  Loading plugin: sscanf.dll
+[02:17:35] 
+[02:17:35]  ===============================
+[02:17:35] 
+[02:17:35]       sscanf plugin loaded.     
+[02:17:35] 
+[02:17:35]          Version: 2.13.8
+[02:17:35] 
+[02:17:35]    (c) 2022 Alex "Y_Less" Cole  
+[02:17:35] 
+[02:17:35]  ===============================
+[02:17:35] 
+[02:17:35]   Loaded.
+[02:17:35]  Loading plugin: pawncmd.dll
+[02:17:35] [Pawn.CMD] plugin v3.4.0 loading...
+[02:17:35] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:17:35]   Loaded.
+[02:17:35]  Loaded 3 plugins.
+
+[02:17:35] 
+[02:17:35] Filterscripts
+[02:17:35] ---------------
+[02:17:35]   Loaded 0 filterscripts.
+
+[02:17:36] Number of vehicle models: 0
+[02:17:42] [connection] incoming connection: 127.0.0.1:56914 id: 0
+[02:17:43] [join] Mikel has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:21:29] filterscripts = ""  (string)
+[02:21:29] 
+[02:21:29] Server Plugins
+[02:21:29] --------------
+[02:21:29]  Loading plugin: streamer.dll
+[02:21:29] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:21:29]   Loaded.
+[02:21:29]  Loading plugin: sscanf.dll
+[02:21:29] 
+[02:21:29]  ===============================
+[02:21:29] 
+[02:21:29]       sscanf plugin loaded.     
+[02:21:29] 
+[02:21:29]          Version: 2.13.8
+[02:21:29] 
+[02:21:29]    (c) 2022 Alex "Y_Less" Cole  
+[02:21:29] 
+[02:21:29]  ===============================
+[02:21:29] 
+[02:21:29]   Loaded.
+[02:21:29]  Loading plugin: pawncmd.dll
+[02:21:29] [Pawn.CMD] plugin v3.4.0 loading...
+[02:21:29] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:21:29]   Loaded.
+[02:21:29]  Loaded 3 plugins.
+
+[02:21:29] 
+[02:21:29] Filterscripts
+[02:21:29] ---------------
+[02:21:29]   Loaded 0 filterscripts.
+
+[02:21:29] Number of vehicle models: 0
+[02:21:33] [connection] incoming connection: 127.0.0.1:61500 id: 0
+[02:21:45] [connection] incoming connection: 127.0.0.1:56836 id: 0
+[02:21:45] [join] Mikel has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:25:15] filterscripts = ""  (string)
+[02:25:15] 
+[02:25:15] Server Plugins
+[02:25:15] --------------
+[02:25:15]  Loading plugin: streamer.dll
+[02:25:15] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:25:15]   Loaded.
+[02:25:15]  Loading plugin: sscanf.dll
+[02:25:15] 
+[02:25:15]  ===============================
+[02:25:15] 
+[02:25:15]       sscanf plugin loaded.     
+[02:25:15] 
+[02:25:15]          Version: 2.13.8
+[02:25:15] 
+[02:25:15]    (c) 2022 Alex "Y_Less" Cole  
+[02:25:15] 
+[02:25:15]  ===============================
+[02:25:15] 
+[02:25:15]   Loaded.
+[02:25:15]  Loading plugin: pawncmd.dll
+[02:25:15] [Pawn.CMD] plugin v3.4.0 loading...
+[02:25:15] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:25:15]   Loaded.
+[02:25:15]  Loaded 3 plugins.
+
+[02:25:15] 
+[02:25:15] Filterscripts
+[02:25:15] ---------------
+[02:25:15]   Loaded 0 filterscripts.
+
+[02:25:15] Number of vehicle models: 0
+[02:25:31] [connection] incoming connection: 127.0.0.1:61071 id: 0
+[02:25:31] [join] Mikel has joined the server (0:127.0.0.1)
+[02:28:22] [part] Mikel has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[02:28:36] filterscripts = ""  (string)
+[02:28:36] 
+[02:28:36] Server Plugins
+[02:28:36] --------------
+[02:28:36]  Loading plugin: streamer.dll
+[02:28:36] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[02:28:36]   Loaded.
+[02:28:36]  Loading plugin: sscanf.dll
+[02:28:36] 
+[02:28:36]  ===============================
+[02:28:36] 
+[02:28:36]       sscanf plugin loaded.     
+[02:28:36] 
+[02:28:36]          Version: 2.13.8
+[02:28:36] 
+[02:28:36]    (c) 2022 Alex "Y_Less" Cole  
+[02:28:36] 
+[02:28:36]  ===============================
+[02:28:36] 
+[02:28:36]   Loaded.
+[02:28:36]  Loading plugin: pawncmd.dll
+[02:28:36] [Pawn.CMD] plugin v3.4.0 loading...
+[02:28:36] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[02:28:36]   Loaded.
+[02:28:36]  Loaded 3 plugins.
+
+[02:28:36] 
+[02:28:36] Filterscripts
+[02:28:36] ---------------
+[02:28:36]   Loaded 0 filterscripts.
+
+[02:28:36] Number of vehicle models: 0
+[02:28:43] [connection] incoming connection: 127.0.0.1:52053 id: 0
+[02:28:43] [join] Mikel has joined the server (0:127.0.0.1)
+[02:36:24] [part] Mikel has left the server (0:1)
