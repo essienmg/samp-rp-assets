@@ -390,8 +390,10 @@ Delivery_SetCheckpoint(playerid) 																// Чекпоинт водителю
 {
 	if(DELIVERY_CHECKPOINT[playerid] != INVALID_CHECKPOINT) DisablePlayerCheckpoint(playerid);
 
-	DELIVERY_CHECKPOINT[playerid] = SetPlayerCheckpoint(playerid, DeliveryPoints[BikerEvent[fraction_owner]][x], 
-	DeliveryPoints[BikerEvent[fraction_owner]][y], DeliveryPoints[BikerEvent[fraction_owner]][z], 4.0);
+	new frac_id = PlayerFraction[playerid][fraction];		// Заглушка заменить на норм
+
+	DELIVERY_CHECKPOINT[playerid] = SetPlayerCheckpoint(playerid, DeliveryPoints[frac_id][x], 
+	DeliveryPoints[frac_id][y], DeliveryPoints[frac_id][z], 4.0);
 	return true;
 }
 

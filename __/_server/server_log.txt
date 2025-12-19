@@ -705,3 +705,59 @@ v0.3.7-R3, (C)2005-2019 SA-MP Team
 [03:11:23] [connection] incoming connection: 127.0.0.1:64710 id: 0
 [03:11:24] [join] Mikel has joined the server (0:127.0.0.1)
 [03:14:33] [part] Mikel has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[03:15:48] filterscripts = ""  (string)
+[03:15:48] 
+[03:15:48] Server Plugins
+[03:15:48] --------------
+[03:15:48]  Loading plugin: streamer.dll
+[03:15:48] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[03:15:48]   Loaded.
+[03:15:48]  Loading plugin: sscanf.dll
+[03:15:48] 
+[03:15:48]  ===============================
+[03:15:48] 
+[03:15:48]       sscanf plugin loaded.     
+[03:15:48] 
+[03:15:48]          Version: 2.13.8
+[03:15:48] 
+[03:15:48]    (c) 2022 Alex "Y_Less" Cole  
+[03:15:48] 
+[03:15:48]  ===============================
+[03:15:48] 
+[03:15:48]   Loaded.
+[03:15:48]  Loading plugin: pawncmd.dll
+[03:15:48] [Pawn.CMD] plugin v3.4.0 loading...
+[03:15:48] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[03:15:48]   Loaded.
+[03:15:48]  Loaded 3 plugins.
+
+[03:15:48] 
+[03:15:48] Filterscripts
+[03:15:48] ---------------
+[03:15:48]   Loaded 0 filterscripts.
+
+[03:15:48] Number of vehicle models: 0
+[03:15:56] [connection] incoming connection: 127.0.0.1:63275 id: 0
+[03:15:56] [join] Mikel has joined the server (0:127.0.0.1)
